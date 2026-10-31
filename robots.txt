@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /articles/_template.html
+
+Sitemap: https://omar-yousef-sy.github.io/sitemap.xml
